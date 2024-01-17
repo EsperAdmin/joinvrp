@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://join.vrp.social/sitemap.xml

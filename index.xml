@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Join VRP!</title>
+    <link>https://join.vrp.social/</link>
+    <description>Recent content on Join VRP!</description>
+    <image>
+      <title>Join VRP!</title>
+      <url>https://join.vrp.social/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://join.vrp.social/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://join.vrp.social/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About VRParty</title>
+      <link>https://join.vrp.social/about/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://join.vrp.social/about/</guid>
+      <description>VRParty.social 🥽 VRParty is a VR-focused Mastodon instance, Mastodon is an open-source federated micro-blogging platform with a similar feel to Twitter. Learn more about Mastodon on their official website joinmastodon.org.
+The instance is focused on VR but non-vr related content is allowed.
+You can follow @Reno, the owner, for instance updates and information or @vrparty.
+Why? Why make VRParty? My reason for making VRP is that I noticed that there are not many VR-focused instances that exist on the Fediverse, and the ones that do exist are mostly dead and catered to AR or MR with the exception of the Baka.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://join.vrp.social/contact/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://join.vrp.social/contact/</guid>
+      <description>You can contact me by sending an email to hello@vrparty.social or by mentioning the @vrparty account. If you have an issue with figuring out Mastodon please check the getting started page first and make sure the answer to your question is not already there. You can also mention me directly @reno if the other to options are not working for some reason.</description>
+    </item>
+    <item>
+      <title>Getting Started</title>
+      <link>https://join.vrp.social/gettingstarted/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://join.vrp.social/gettingstarted/</guid>
+      <description>Hello! This page will help you get started with Mastodon and in turn VRParty!
+What is Mastodon? TLDR; Mastodon is an open-source micro blogging platform using ActivityPub to participate in the decentralized net known as the Fediverse!
+Mastodon official documentation: Link
+What is Mastodon (Video): Link
+How to use Mastodon? For people who are new to Mastodon and the Fediverse, I recommend watching the video below as it goes over everything a NOOB, jk, a new user would need to know.</description>
+    </item>
+    <item>
+      <title>Welcome!</title>
+      <link>https://join.vrp.social/posts/welcome/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://join.vrp.social/posts/welcome/</guid>
+      <description>Welcome to join.vrp.social!</description>
+    </item>
+  </channel>
+</rss>
