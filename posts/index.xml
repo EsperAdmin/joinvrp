@@ -6,8 +6,8 @@
     <description>Recent content in Posts on Join VRP!</description>
     <image>
       <title>Join VRP!</title>
-      <url>https://join.vrp.social/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://join.vrp.social/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://join.vrp.social/card.png</url>
+      <link>https://join.vrp.social/card.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
